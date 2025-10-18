@@ -1,0 +1,673 @@
+BldgID,site,description,Full_Addr
+406-13,P#012,"Third St @ Gore St (solar power, surface wall mount)",186 Monsignor Obrien Hwy
+728-1,P#009,"Massachusetts Ave @ Memorial Dr (AC power, city light pole)",305 Memorial Dr
+680-3,P#014,"Main St @ Broadway (solar power, city light pole)",1 Memorial Dr
+503-22,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",324 Windsor St
+503-22,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",322 Windsor St
+495-9,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",13 Union St
+495-9,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",15 Union St
+503-14,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",330 Windsor St
+451-41,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",327 Windsor St
+451-41,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",325 Windsor St
+451-40,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",99 Hampshire St
+451-39,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",101 Hampshire St
+451-39,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",18 Union St
+437-11,P#007,"Memorial Dr@ JFK St (solar power, city light pole)",971 Memorial Dr
+503-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",336 Windsor St
+451-36,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",20 Union St
+451-3,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",333 Windsor St
+503-1,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",340 Windsor St
+451-33,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",335 Windsor St
+451-33,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",337 Windsor St
+468-3,P#011,"Cambridge St@ N First St (AC power, city light pole)",1 Canal Pk
+483-2,P#011,"Cambridge St@ N First St (AC power, city light pole)",25 Thorndike St
+483-2,P#011,"Cambridge St@ N First St (AC power, city light pole)",25 First St
+468-2,P#011,"Cambridge St@ N First St (AC power, city light pole)",2 First St
+468-2,P#011,"Cambridge St@ N First St (AC power, city light pole)",2 Canal Pk
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",29 Otis St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",17 Otis St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",11 First St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",150 Cambridge St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",120 Cambridge St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",20 Second St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",26 Second St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",160 Cambridge St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",24 Second St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",28 Second St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",21 Otis St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",29 Otis St
+461-10,P#011,"Cambridge St@ N First St (AC power, city light pole)",110 Cambridge St
+431-5,P#012,"Third St @ Gore St (solar power, surface wall mount)",189 Cambridge St
+431-7,P#012,"Third St @ Gore St (solar power, surface wall mount)",173 Cambridge St
+431-7,P#012,"Third St @ Gore St (solar power, surface wall mount)",175 Cambridge St
+422-11,P#012,"Third St @ Gore St (solar power, surface wall mount)",267 Cambridge St
+422-11,P#012,"Third St @ Gore St (solar power, surface wall mount)",271 Cambridge St
+422-13,P#012,"Third St @ Gore St (solar power, surface wall mount)",255 Cambridge St
+422-13,P#012,"Third St @ Gore St (solar power, surface wall mount)",253 Cambridge St
+422-1,P#012,"Third St @ Gore St (solar power, surface wall mount)",68 Gore St
+431-1,P#012,"Third St @ Gore St (solar power, surface wall mount)",38 Gore St
+422-4,P#012,"Third St @ Gore St (solar power, surface wall mount)",29 Third St
+422-10,P#012,"Third St @ Gore St (solar power, surface wall mount)",60 Gore St
+422-8,P#012,"Third St @ Gore St (solar power, surface wall mount)",70 Gore St
+406-12,P#012,"Third St @ Gore St (solar power, surface wall mount)",25-1/2 Gore St
+406-12,P#012,"Third St @ Gore St (solar power, surface wall mount)",25 Gore St
+406-11,P#012,"Third St @ Gore St (solar power, surface wall mount)",33 Gore St
+406-10,P#012,"Third St @ Gore St (solar power, surface wall mount)",29 Gore St
+406-10,P#012,"Third St @ Gore St (solar power, surface wall mount)",31 Gore St
+406-9,P#012,"Third St @ Gore St (solar power, surface wall mount)",43 Gore St
+406-9,P#012,"Third St @ Gore St (solar power, surface wall mount)",39 Gore St
+406-9,P#012,"Third St @ Gore St (solar power, surface wall mount)",41 Gore St
+406-8,P#012,"Third St @ Gore St (solar power, surface wall mount)",37-1/2 Gore St
+406-8,P#012,"Third St @ Gore St (solar power, surface wall mount)",37 Gore St
+406-8,P#012,"Third St @ Gore St (solar power, surface wall mount)",35 Gore St
+406-8,P#012,"Third St @ Gore St (solar power, surface wall mount)",35-1/2 Gore St
+406-7,P#012,"Third St @ Gore St (solar power, surface wall mount)",22 Third St
+406-6,P#012,"Third St @ Gore St (solar power, surface wall mount)",192 Monsignor Obrien Hwy
+406-6,P#012,"Third St @ Gore St (solar power, surface wall mount)",194 Monsignor Obrien Hwy
+406-5,P#012,"Third St @ Gore St (solar power, surface wall mount)",20 Third St
+400-15,P#012,"Third St @ Gore St (solar power, surface wall mount)",65 Gore St
+400-13,P#012,"Third St @ Gore St (solar power, surface wall mount)",61 Gore St
+400-4,P#012,"Third St @ Gore St (solar power, surface wall mount)",55 Gore St
+400-4,P#012,"Third St @ Gore St (solar power, surface wall mount)",53 Gore St
+406-2,P#012,"Third St @ Gore St (solar power, surface wall mount)",196 Monsignor Obrien Hwy
+400-10,P#012,"Third St @ Gore St (solar power, surface wall mount)",19 Third St
+400-10,P#012,"Third St @ Gore St (solar power, surface wall mount)",25 Third St
+406-1,P#012,"Third St @ Gore St (solar power, surface wall mount)",14 Third St
+406-1,P#012,"Third St @ Gore St (solar power, surface wall mount)",16 Third St
+400-3,P#012,"Third St @ Gore St (solar power, surface wall mount)",61-C Gore St
+400-1,P#012,"Third St @ Gore St (solar power, surface wall mount)",67 Gore St
+400-17,P#012,"Third St @ Gore St (solar power, surface wall mount)",61-A Gore St
+400-11,P#012,"Third St @ Gore St (solar power, surface wall mount)",61-B Gore St
+406-4,P#012,"Third St @ Gore St (solar power, surface wall mount)",200 Monsignor Obrien Hwy
+400-19,P#012,"Third St @ Gore St (solar power, surface wall mount)",12 Winter St
+400-18,P#012,"Third St @ Gore St (solar power, surface wall mount)",22 Winter St
+358-4,P#012,"Third St @ Gore St (solar power, surface wall mount)",201 Monsignor Obrien Hwy
+368-24,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",117 Inman St
+368-24,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",115 Inman St
+368-24,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",117 Inman St
+368-24,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",115 Inman St
+368-22,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",124 Antrim St
+368-22,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",124 Antrim St
+368-21,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",121 Inman St
+368-21,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",121 Inman St
+364-19,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",119 Antrim St
+364-19,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",119 Antrim St
+368-19,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",123 Inman St
+368-19,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",123 Inman St
+368-18,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",132 Antrim St
+368-18,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",130 Antrim St
+368-18,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",132 Antrim St
+368-18,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",130 Antrim St
+368-17,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",135 Inman St
+368-17,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",135 Inman St
+374-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",208 Hampshire St
+374-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",136 Inman St
+374-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",212 Hampshire St
+374-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",208 Hampshire St
+374-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",136 Inman St
+374-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",212 Hampshire St
+364-16,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",125 Antrim St
+364-16,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",125 Antrim St
+368-16,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",140 Antrim St
+368-16,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",138 Antrim St
+368-16,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",140 Antrim St
+368-16,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",138 Antrim St
+364-15,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",131 Antrim St
+364-15,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",131 Antrim St
+364-14,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",66 Fayette St
+364-14,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",66 Fayette St
+364-13,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",135 Antrim St
+364-13,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",135 Antrim St
+364-12,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",74 Fayette St
+364-12,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",74 Fayette St
+370-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",215 Hampshire St
+370-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",221 Hampshire St
+370-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1378 Cambridge St
+370-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1360 Cambridge St
+370-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1356 Cambridge St
+370-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1354 Cambridge St
+370-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",215 Hampshire St
+370-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",221 Hampshire St
+370-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1378 Cambridge St
+370-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1360 Cambridge St
+370-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1356 Cambridge St
+370-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1354 Cambridge St
+364-11,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",139 Antrim St
+364-11,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",139 Antrim St
+364-10,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",80 Fayette St
+364-10,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",78 Fayette St
+364-10,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",80 Fayette St
+364-10,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",78 Fayette St
+364-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1418 Cambridge St
+364-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1418 Cambridge St
+368-14,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1384 Cambridge St
+368-14,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1384 Cambridge St
+364-8,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1408 Cambridge St
+364-8,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1410 Cambridge St
+364-8,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1414 Cambridge St
+364-8,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1408 Cambridge St
+364-8,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1410 Cambridge St
+364-8,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1414 Cambridge St
+364-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1426 Cambridge St
+364-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1426-R Cambridge St
+364-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1426 Cambridge St
+364-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1426-R Cambridge St
+362-11,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",75 Fayette St
+362-11,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1436 Cambridge St
+362-11,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",75 Fayette St
+362-11,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1436 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1369 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1361 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1367 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1365 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1359 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1357 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1355 Cambridge St
+341-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1353 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1369 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1361 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1367 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1365 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1359 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1357 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1355 Cambridge St
+341-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1353 Cambridge St
+343-8,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1385 Cambridge St
+343-8,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1385 Cambridge St
+341-8,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",7 Springfield St
+341-8,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",7 Springfield St
+343-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",10 Springfield St
+343-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",10-A Springfield St
+343-7,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",12 Springfield St
+343-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",10 Springfield St
+343-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",10-A Springfield St
+343-7,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",12 Springfield St
+343-6,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",237 Hampshire St
+343-6,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",237 Hampshire St
+341-4,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",11 Springfield St
+341-4,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",11 Springfield St
+346-12,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1431 Cambridge St
+346-12,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1431 Cambridge St
+346-11,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1427 Cambridge St
+346-11,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1423 Cambridge St
+346-11,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1427 Cambridge St
+346-11,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1423 Cambridge St
+346-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1429-A Cambridge St
+346-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1429 Cambridge St
+346-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1429-A Cambridge St
+346-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1429 Cambridge St
+343-5,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",16 Springfield St
+343-5,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",14 Springfield St
+343-5,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",16 Springfield St
+343-5,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",14 Springfield St
+346-8,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1431-A Cambridge St
+346-8,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1431-A Cambridge St
+343-4,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",18 Springfield St
+343-4,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",18 Springfield St
+343-3,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",243 Hampshire St
+343-3,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",245 Hampshire St
+343-3,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",243 Hampshire St
+343-3,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",245 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",240 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",242 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",252 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",254 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",256 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",258 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",244 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",250 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",248 Hampshire St
+346-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",246 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",240 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",242 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",252 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",254 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",256 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",258 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",244 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",250 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",248 Hampshire St
+346-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",246 Hampshire St
+343-2,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",251 Hampshire St
+343-2,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",251 Hampshire St
+346-5,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",262 Hampshire St
+346-5,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",262 Hampshire St
+343-1,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",22 Springfield St
+343-1,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",22 Springfield St
+77-20,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",29 Pemberton St
+77-19,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2 Warwick Pk
+77-18,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",27 Pemberton St
+77-18,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",25 Pemberton St
+79-14,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",32 Pemberton St
+77-16,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",5 Warwick Pk
+77-14,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",3 Warwick Pk
+79-12,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",24 Pemberton St
+77-11,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",17 Pemberton St
+77-11,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",19 Pemberton St
+77-10,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",1 Warwick Pk
+79-10,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",20 Pemberton St
+77-9,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",13 Pemberton St
+77-9,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",15 Pemberton St
+79-8,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",9 Fairfield St
+77-8,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",11 Pemberton St
+77-6,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",5 Pemberton St
+79-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",30 Rindge Ave
+79-4,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",26 Rindge Ave
+79-3,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",20 Rindge Ave
+79-2,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",12 Rindge Ave
+79-1,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",18 Rindge Ave
+77-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2154 Massachusetts Ave
+77-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2166 Massachusetts Ave
+77-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2168 Massachusetts Ave
+77-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2150 Massachusetts Ave
+62-26,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",19 Rindge Ave
+62-24,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",1 Rindge Ter
+62-24,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",23 Rindge Ave
+63-13,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2175 Massachusetts Ave
+63-12,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",5 Milton St
+62-17,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2192 Massachusetts Ave
+62-15,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2198 Massachusetts Ave
+62-14,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",3 Rindge Ter
+62-14,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2 Rindge Ter
+63-9,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2179 Massachusetts Ave
+63-10,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",7 Milton St
+62-8,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2200 Massachusetts Ave
+63-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",4 Chester St
+63-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2 Chester St
+62-6,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2210 Massachusetts Ave
+63-2,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",6-A Chester St
+63-2,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",6-B Chester St
+63-2,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",6-C Chester St
+63-2,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",6 Chester St
+59-20,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",402 Rindge Ave
+57-16,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2203 Massachusetts Ave
+44-12,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",149 Alewife Brook Pkwy
+44-12,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",151 Alewife Brook Pkwy
+44-12,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",153 Alewife Brook Pkwy
+59-48,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",394 Rindge Ave
+59-48,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",396 Rindge Ave
+59-48,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",398 Rindge Ave
+59-48,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",400 Rindge Ave
+44-5,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",2 Cambridgepark Dr
+17-19,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",30 Brookford St
+17-17,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",26 Brookford St
+17-16,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",9 Cottage Park Ave
+14-23,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",27 Brookford St
+17-14,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",22 Brookford St
+14-21,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",23 Brookford St
+17-13,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2516 Massachusetts Ave
+17-13,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2520 Massachusetts Ave
+17-13,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2518 Massachusetts Ave
+14-18,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",19 Brookford St
+17-10,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",16 Brookford St
+17-10,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",18 Brookford St
+17-9,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2524 Massachusetts Ave
+14-15,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",15 Brookford St
+17-7,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2528 Massachusetts Ave
+14-14,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",32 Magoun St
+17-5,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2530 Massachusetts Ave
+17-5,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2532 Massachusetts Ave
+14-10,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",9 Brookford St
+14-12,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",28 Magoun St
+14-12,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",30 Magoun St
+17-3,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2534 Massachusetts Ave
+14-11,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",11 Brookford St
+17-2,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2536 Massachusetts Ave
+17-2,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2538 Massachusetts Ave
+8-18,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2507 Massachusetts Ave
+8-18,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2509 Massachusetts Ave
+8-18,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2505 Massachusetts Ave
+14-9,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",24 Magoun St
+17-1,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2542 Massachusetts Ave
+8-17,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2517 Massachusetts Ave
+8-17,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2511 Massachusetts Ave
+8-17,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2513 Massachusetts Ave
+8-17,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2515 Massachusetts Ave
+14-8,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2552 Massachusetts Ave
+14-7,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",20 Magoun St
+8-16,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2521 Massachusetts Ave
+8-16,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2525 Massachusetts Ave
+8-16,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2523 Massachusetts Ave
+8-16,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2519 Massachusetts Ave
+14-6,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2556 Massachusetts Ave
+8-14,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2529 Massachusetts Ave
+8-14,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2527 Massachusetts Ave
+14-5,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2560 Massachusetts Ave
+8-12,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",16 Churchill Ave
+10-14,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2535 Massachusetts Ave
+14-4,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2564 Massachusetts Ave
+14-3,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2568 Massachusetts Ave
+14-2,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2578 Massachusetts Ave
+14-1,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2574 Massachusetts Ave
+14-1,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2572 Massachusetts Ave
+10-11,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",8 Richard Ave
+10-11,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",6 Richard Ave
+4-44,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2551 Massachusetts Ave
+4-44,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2553 Massachusetts Ave
+4-44,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2549 Massachusetts Ave
+4-44,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2547 Massachusetts Ave
+10-10,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",12 Richard Ave
+10-10,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",10 Richard Ave
+10-9,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",19 Churchill Ave
+4-43,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",7 Richard Ave
+4-42,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2557 Massachusetts Ave
+10-7,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",16 Richard Ave
+10-7,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",14 Richard Ave
+4-40,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2561 Massachusetts Ave
+4-39,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",11 Richard Ave
+4-39,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",9 Richard Ave
+7-19,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",7 Newman St
+10-5,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",20 Richard Ave
+10-5,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",18 Richard Ave
+4-38,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",17 Richard Ave
+4-38,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",15 Richard Ave
+7-18,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2575 Massachusetts Ave
+4-36,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",12 Newman St
+7-12,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",11 Newman St
+4-34,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",16 Newman St
+4-33,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",19 Richard Ave
+4-33,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",21 Richard Ave
+7-9,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",15 Newman St
+4-31,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",20 Newman St
+680-14,P#014,"Main St @ Broadway (solar power, city light pole)",100 Main St
+673-1,F#004,"Main St @ Osborn St WB (AC power, city light pole)",181 Massachusetts Ave
+673-1,F#004,"Main St @ Osborn St WB (AC power, city light pole)",22 Windsor St
+620-80,P#014,"Main St @ Broadway (solar power, city light pole)",139 Main St
+620-80,P#014,"Main St @ Broadway (solar power, city light pole)",143 Main St
+620-79,P#014,"Main St @ Broadway (solar power, city light pole)",1 Main St
+658-3,F#004,"Main St @ Osborn St WB (AC power, city light pole)",608 Main St
+658-3,F#004,"Main St @ Osborn St WB (AC power, city light pole)",610 Main St
+658-3,F#004,"Main St @ Osborn St WB (AC power, city light pole)",616 Main St
+658-3,F#004,"Main St @ Osborn St WB (AC power, city light pole)",612 Main St
+658-3,F#004,"Main St @ Osborn St WB (AC power, city light pole)",614 Main St
+620-74,P#014,"Main St @ Broadway (solar power, city light pole)",2 Broad Canal Way
+620-74,P#014,"Main St @ Broadway (solar power, city light pole)",4 Broad Canal Way
+620-74,P#014,"Main St @ Broadway (solar power, city light pole)",6 Broad Canal Way
+620-74,P#014,"Main St @ Broadway (solar power, city light pole)",1 Broadway
+620-74,P#014,"Main St @ Broadway (solar power, city light pole)",380 Third St
+620-74,P#014,"Main St @ Broadway (solar power, city light pole)",390 Third St
+620-74,P#014,"Main St @ Broadway (solar power, city light pole)",175 Main St
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",671 Main St
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",655 Main St
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",657 Main St
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",29 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",31 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",27 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",25 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",19 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",17 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",15 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",727 Main St
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",731 Main St
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",11 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",13 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",21 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",23 Newtowne Ct
+626-8,F#004,"Main St @ Osborn St WB (AC power, city light pole)",725 Main St
+626-7,F#004,"Main St @ Osborn St WB (AC power, city light pole)",7 Newtowne Ct
+626-7,F#004,"Main St @ Osborn St WB (AC power, city light pole)",9 Newtowne Ct
+626-7,F#004,"Main St @ Osborn St WB (AC power, city light pole)",5 Newtowne Ct
+626-7,F#004,"Main St @ Osborn St WB (AC power, city light pole)",3 Newtowne Ct
+626-7,F#004,"Main St @ Osborn St WB (AC power, city light pole)",1 Newtowne Ct
+625-1,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",150 Broadway
+625-1,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",150 Broadway
+620-11,P#015,"Binney St@ Third St (AC power, city light pole)",675 West Kendall St
+620-11,P#015,"Binney St@ Third St (AC power, city light pole)",695 West Kendall St
+620-11,P#015,"Binney St@ Third St (AC power, city light pole)",314 Third St
+620-11,P#015,"Binney St@ Third St (AC power, city light pole)",318 Third St
+620-11,P#015,"Binney St@ Third St (AC power, city light pole)",605 West Kendall St
+620-11,P#015,"Binney St@ Third St (AC power, city light pole)",625 West Kendall St
+610-2,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",555 Technology Sq
+610-2,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",555 Technology Sq
+614-8,P#015,"Binney St@ Third St (AC power, city light pole)",285 Third St
+614-8,P#015,"Binney St@ Third St (AC power, city light pole)",287 Third St
+614-8,P#015,"Binney St@ Third St (AC power, city light pole)",289 Third St
+614-8,P#015,"Binney St@ Third St (AC power, city light pole)",291 Third St
+591-15,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",145 Broadway
+591-15,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",149 Broadway
+591-15,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",153 Broadway
+591-15,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",201 Galilei Way
+591-15,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",141 Broadway
+591-15,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",205 Galilei Way
+591-15,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",145 Broadway
+591-15,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",149 Broadway
+591-15,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",153 Broadway
+591-15,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",201 Galilei Way
+591-15,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",141 Broadway
+591-15,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",205 Galilei Way
+607-1,P#015,"Binney St@ Third St (AC power, city light pole)",300 Third St
+591-11,P#015,"Binney St@ Third St (AC power, city light pole)",125 Munroe St
+557-13,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",1 Hampshire St
+557-13,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",1 Hampshire St
+585-1,P#015,"Binney St@ Third St (AC power, city light pole)",275 Third St
+590-2,P#015,"Binney St@ Third St (AC power, city light pole)",75 Binney St
+590-2,P#015,"Binney St@ Third St (AC power, city light pole)",125 Binney St
+590-1,P#015,"Binney St@ Third St (AC power, city light pole)",270 Third St
+585-2,P#015,"Binney St@ Third St (AC power, city light pole)",195 Binney St
+541-6,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",21 Lilac Ct
+541-6,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",22 Lilac Ct
+541-6,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",23 Lilac Ct
+541-6,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",24 Lilac Ct
+541-2,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",10 Lilac Ct
+541-2,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",12 Lilac Ct
+541-2,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",11 Lilac Ct
+541-2,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",13 Lilac Ct
+541-28,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",19 Lilac Ct
+541-28,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",17 Lilac Ct
+541-28,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",20 Lilac Ct
+541-28,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",18 Lilac Ct
+541-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",9 Lilac Ct
+541-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",8 Lilac Ct
+541-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",5 Lilac Ct
+541-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",6 Lilac Ct
+541-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",7 Lilac Ct
+541-3,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",16 Lilac Ct
+541-3,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",15 Lilac Ct
+541-3,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",14 Lilac Ct
+557-1,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",500 One Kendall Square Complex
+541-23,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",20 Bristol St
+541-22,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",231 Cardinal Medeiros Ave
+541-22,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",233 Cardinal Medeiros Ave
+541-21,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",6 Bristol St
+541-20,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",10 Bristol St
+541-20,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",8 Bristol St
+541-17,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",18 Bristol St
+541-17,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",16 Bristol St
+541-15,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",22 Bristol St
+541-14,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",26 Bristol St
+541-14,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",24 Bristol St
+537-9,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",5 Bristol St
+537-9,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",7 Bristol St
+528-9,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",87 Bristol St
+528-7,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",274 Windsor St
+528-7,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",276 Windsor St
+537-1,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",235 Cardinal Medeiros Ave
+537-1,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",241 Cardinal Medeiros Ave
+509-14,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",27 Market St
+509-14,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",271 Windsor St
+537-8,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",5 Berkshire Pl
+537-8,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",3 Berkshire Pl
+509-23,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",29 Market St
+528-6,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",280 Windsor St
+528-6,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",282 Windsor St
+537-6,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",25 Bristol St
+537-6,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",23 Bristol St
+509-22,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",277 Windsor St
+537-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",9 Bristol St
+537-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",17 Bristol St
+537-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",11 Bristol St
+537-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",13 Bristol St
+537-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",15 Bristol St
+529-17,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",2 Berkshire Pl
+537-4,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",19 Bristol St
+537-4,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",21 Bristol St
+528-5,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",84 Hampshire St
+528-5,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",82 Hampshire St
+528-5,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",80 Hampshire St
+537-3,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",33 Bristol St
+537-3,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",2 Berkshire St
+528-4,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",288 Windsor St
+528-4,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",286 Windsor St
+529-16,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",6 Berkshire Pl
+509-21,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",283 Windsor St
+529-15,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",8 Berkshire Pl
+509-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",31-A Market St
+509-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",31-B Market St
+509-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",31 Market St
+509-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",31-C Market St
+509-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",31-D Market St
+509-18,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",285 Windsor St
+531-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",81 Hampshire St
+531-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",81-A Hampshire St
+529-14,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",10 Berkshire Pl
+529-13,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",257 Cardinal Medeiros Ave
+537-2,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",8 Berkshire St
+537-2,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",10 Berkshire St
+528-2,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",294 Windsor St
+509-15,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",289 Windsor St
+529-12,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",8 Plymouth St
+529-12,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",6 Plymouth St
+529-11,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",12 Berkshire Pl
+529-10,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",14 Berkshire Pl
+509-13,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",291 Windsor St
+529-8,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",16 Berkshire Pl
+531-6,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",83 Hampshire St
+531-6,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",33 Portsmouth St
+531-6,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",31 Portsmouth St
+529-6,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",14 Plymouth St
+509-12,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",4 Union St
+528-1,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",298 Windsor St
+528-1,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",90 Hampshire St
+528-1,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",88 Hampshire St
+529-5,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",16 Plymouth St
+509-10,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",295 Windsor St
+417-29,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",1 One Kendall Square Complex
+417-29,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",389 Binney St
+516-21,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",5 Plymouth St
+519-16,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",87 Hampshire St
+519-16,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",56 Portsmouth St
+519-16,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",54 Portsmouth St
+519-16,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",52 Portsmouth St
+516-20,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",9 Plymouth St
+509-9,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",6 Union St
+519-15,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",46 Portsmouth St
+519-15,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",44 Portsmouth St
+519-13,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",36 Portsmouth St
+519-13,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",38 Portsmouth St
+519-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",89-B Hampshire St
+519-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",89-A Hampshire St
+519-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",89 Hampshire St
+519-10,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",34 Portsmouth St
+519-10,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",32 Portsmouth St
+519-10,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",30 Portsmouth St
+519-10,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",28 Portsmouth St
+509-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",96-C Hampshire St
+509-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",96-D Hampshire St
+509-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",96-B Hampshire St
+509-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",96-A Hampshire St
+509-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",96-E Hampshire St
+509-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",96 Hampshire St
+509-7,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",8 Union St
+417-30,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",399 Binney St
+519-7,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",86 Plymouth St
+519-7,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",88 Plymouth St
+509-6,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",92 Hampshire St
+509-6,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",94 Hampshire St
+519-4,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",78 Plymouth St
+519-4,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",80 Plymouth St
+509-5,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",10 Union St
+519-3,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",70 Plymouth St
+519-3,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",72 Plymouth St
+519-3,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",76 Plymouth St
+519-3,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",74 Plymouth St
+509-4,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",98 Hampshire St
+503-29,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",91 Plymouth St
+509-3,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",12 Union St
+495-13,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",9 Union St
+451-45,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",93 Hampshire St
+451-45,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",91 Hampshire St
+509-2,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",100 Hampshire St
+503-27,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",89 Plymouth St
+503-28,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",87 Plymouth St
+495-11,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",11 Union St
+503-26,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",83 Plymouth St
+503-26,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",85 Plymouth St
+503-25,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",79 Plymouth St
+503-25,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",81 Plymouth St
+451-44,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",315 Windsor St
+503-4,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",73 Plymouth St
+503-4,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",75 Plymouth St
+509-1,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",14 Union St
+509-1,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",100-A Hampshire St
+509-1,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",102 Hampshire St
+451-42,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",95 Hampshire St
+529-9,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",10 Plymouth St
+529-7,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",12 Plymouth St
+519-5,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",84 Plymouth St
+519-5,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",82 Plymouth St
+451-35,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",22 Union St
+451-34,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",341 Windsor St
+728-2,P#009,"Massachusetts Ave @ Memorial Dr (AC power, city light pole)",311 Memorial Dr
+728-2,P#009,"Massachusetts Ave @ Memorial Dr (AC power, city light pole)",312 Memorial Dr
+422-3,P#012,"Third St @ Gore St (solar power, surface wall mount)",241 Cambridge St
+422-3,P#012,"Third St @ Gore St (solar power, surface wall mount)",245 Cambridge St
+422-15,P#012,"Third St @ Gore St (solar power, surface wall mount)",47 Third St
+422-15,P#012,"Third St @ Gore St (solar power, surface wall mount)",251 Cambridge St
+422-15,P#012,"Third St @ Gore St (solar power, surface wall mount)",247 Cambridge St
+422-15,P#012,"Third St @ Gore St (solar power, surface wall mount)",249 Cambridge St
+422-12,P#012,"Third St @ Gore St (solar power, surface wall mount)",257 Cambridge St
+422-12,P#012,"Third St @ Gore St (solar power, surface wall mount)",259 Cambridge St
+422-12,P#012,"Third St @ Gore St (solar power, surface wall mount)",261 Cambridge St
+431-4,P#012,"Third St @ Gore St (solar power, surface wall mount)",38-1/2 Gore St
+422-16,P#012,"Third St @ Gore St (solar power, surface wall mount)",291 Cambridge St
+400-12,P#012,"Third St @ Gore St (solar power, surface wall mount)",57 Gore St
+400-14,P#012,"Third St @ Gore St (solar power, surface wall mount)",51 Gore St
+400-5,P#012,"Third St @ Gore St (solar power, surface wall mount)",49 Gore St
+400-6,P#012,"Third St @ Gore St (solar power, surface wall mount)",47 Gore St
+400-20,P#012,"Third St @ Gore St (solar power, surface wall mount)",10 Winter St
+368-13,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",1400 Cambridge St
+368-13,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",1400 Cambridge St
+343-9,P#003,"Cambridge St @ Hampshire St (solar power, city light pole)",225 Hampshire St
+343-9,P#013,"Hampshire St@ Cambridge St (solar power, city light pole)",225 Hampshire St
+77-4,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2172 Massachusetts Ave
+77-4,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2180 Massachusetts Ave
+680-10,P#014,"Main St @ Broadway (solar power, city light pole)",30 Memorial Dr
+620-5,P#014,"Main St @ Broadway (solar power, city light pole)",101 Main St
+658-1,F#004,"Main St @ Osborn St WB (AC power, city light pole)",710 Main St
+591-9,P#006,"Galileo Galilei Way@ Broadway (solar power, city light pole)",125 Broadway
+591-9,P#016,"Galileo Galilei Way@ Broadway (solar power, city light pole)",125 Broadway
+557-16,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",1400 One Kendall Square Complex
+451-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",97 Hampshire St
+451-8,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",97-A Hampshire St
+437-13,P#007,"Memorial Dr@ JFK St (solar power, city light pole)",101 Dunster St
+557-17,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",600 One Kendall Square Complex
+557-17,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",700 One Kendall Square Complex
+417-28,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",1900 One Kendall Square Complex
+668-1,P#009,"Massachusetts Ave @ Memorial Dr (AC power, city light pole)",33 Massachusetts Ave
+431-3,P#012,"Third St @ Gore St (solar power, surface wall mount)",225 Cambridge St
+431-3,P#012,"Third St @ Gore St (solar power, surface wall mount)",207 Cambridge St
+431-3,P#012,"Third St @ Gore St (solar power, surface wall mount)",209 Cambridge St
+557-19,P#005,"Cardinal Medeiros Ave@ Binney St (AC power, city light pole)",400 One Kendall Square Complex
+620-10,P#014,"Main St @ Broadway (solar power, city light pole)",10 Broad Canal Way
+620-10,P#014,"Main St @ Broadway (solar power, city light pole)",8 Broad Canal Way
+620-10,P#014,"Main St @ Broadway (solar power, city light pole)",165 Main St
+620-10,P#014,"Main St @ Broadway (solar power, city light pole)",169 Main St
+620-10,P#014,"Main St @ Broadway (solar power, city light pole)",167 Main St
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2143 Massachusetts Ave
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2157 Massachusetts Ave
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2155 Massachusetts Ave
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2153 Massachusetts Ave
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2149 Massachusetts Ave
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2151 Massachusetts Ave
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2145 Massachusetts Ave
+72-5,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2147 Massachusetts Ave
+655-1,F#004,"Main St @ Osborn St WB (AC power, city light pole)",770 Main St
+655-1,F#004,"Main St @ Osborn St WB (AC power, city light pole)",60 Windsor St
+655-1,F#004,"Main St @ Osborn St WB (AC power, city light pole)",750 Main St
+655-2,F#004,"Main St @ Osborn St WB (AC power, city light pole)",730 Main St
+59-26,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",430 Rindge Ave
+59-26,P#002,"Rindge Ave @ Alewife Brook Pkwy (solar power, city traffic signal)",432 Rindge Ave
+509-17,P#010,"Windsor St@ Hampshire St (solar power, city light pole)",35 Market St
+17-11,P#001,"Massachusetts Ave@ Brookford St (solar power, city light pole)",2530-R Massachusetts Ave
+72-8,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2161 Massachusetts Ave
+72-8,P#008,"Rindge Ave @ Pemberton St (solar power, city light pole)",2 Milton St
